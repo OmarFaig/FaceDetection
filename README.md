@@ -1,1 +1,1 @@
-# FaceDetection
+Mithilfe der opencv Bibliothek kann einfache "Face Detection" Applikation implementiert werden. In folgenden Dateien kann man entweder mit einem Foto oder Webcam eines Laptops die Gesichter erkennen. Um die Programme ausführen zu können muss zuerst "opencv" installiert werden. ( pip install opencv-python in cmd).
